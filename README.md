@@ -3,6 +3,7 @@
  Hi,I am Khin Pyae Sone
  
 ### 🚀 About Me  
+- 🎓 Bachelor of Computer Science from University of Computer Studies, Thaton 
 - 🔭 I’m currently working on exciting fullstack projects  
 - 🌱 I’m continuously learning and exploring new technologies  
 - 👯 I’m open to collaborating on interesting open-source or freelance projects  
